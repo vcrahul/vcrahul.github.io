@@ -1,0 +1,1 @@
+import{N as s}from"./chunk-PX6K3Z3L.js";var i=(()=>{class r{constructor(){this.store=new Map}has(t){return this.store.has(t)}get(t){return this.store.has(t)?this.store.get(t):null}set(t,e){this.store.set(t,e)}static{this.\u0275fac=function(e){return new(e||r)}}static{this.\u0275prov=s({token:r,factory:r.\u0275fac,providedIn:"root"})}}return r})();export{i as a};
